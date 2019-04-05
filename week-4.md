@@ -15,7 +15,7 @@
 ### Tuesday
 
 1. Nanz: Webpack
-2. Name: Topic
+2. Meg: CSS Grid
 3. Name: Topic
 4. Name: Topic
 5. Name: Topic
@@ -70,7 +70,7 @@
   * [ ] echo, cat, tail
 
 * CSS
-  * [ ] CSS Grid
+  * [x] CSS Grid
   * [ ] Flexbox
   * [ ] Bulma or Bootstrap
 
