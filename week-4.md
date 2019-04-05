@@ -16,7 +16,7 @@
 
 1. Nanz: Webpack
 2. Meg: CSS Grid
-3. Name: Topic
+3. Nathan: Flexbox
 4. Name: Topic
 5. Name: Topic
 6. Name: Topic
@@ -71,7 +71,7 @@
 
 * CSS
   * [x] CSS Grid
-  * [ ] Flexbox
+  * [x] Flexbox
   * [x] Bulma or Bootstrap
 
 * Misc
