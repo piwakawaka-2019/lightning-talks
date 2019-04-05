@@ -17,7 +17,7 @@
 1. Nanz: Webpack
 2. Meg: CSS Grid
 3. Nathan: Flexbox
-4. Name: Topic
+4. Ashleigh:  echo, cat, tail
 5. Name: Topic
 6. Name: Topic
 7. Name: Topic
@@ -67,7 +67,7 @@
   * [ ] sed, grep, ag
   * [ ] ln, ls
   * [ ] chmod, chown, chgrp
-  * [ ] echo, cat, tail
+  * [x] echo, cat, tail
 
 * CSS
   * [x] CSS Grid
