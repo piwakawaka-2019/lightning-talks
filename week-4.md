@@ -25,7 +25,7 @@
 
 ### Wednesday
 
-1. Name: Topic
+1. Jorge: Bootstrap
 2. Name: Topic
 3. Name: Topic
 4. Name: Topic
@@ -72,7 +72,7 @@
 * CSS
   * [x] CSS Grid
   * [ ] Flexbox
-  * [ ] Bulma or Bootstrap
+  * [x] Bulma or Bootstrap
 
 * Misc
   * [ ] Reduce (Higher Order Accumulation Function)
