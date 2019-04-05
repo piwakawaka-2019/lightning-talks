@@ -14,7 +14,7 @@
 
 ### Tuesday
 
-1. Name: Topic
+1. Name: Nanz
 2. Name: Topic
 3. Name: Topic
 4. Name: Topic
@@ -60,7 +60,7 @@
 * Task runners
   * [ ] Task runner - gulp
   * [ ] Task runner - grunt
-  * [ ] Task runner - webpack
+  * [x] Task runner - webpack
 
 * Command line tools
   * [ ] Yarn vs NPM
