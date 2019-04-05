@@ -14,7 +14,7 @@
 
 ### Tuesday
 
-1. Name: Nanz
+1. Nanz: Webpack
 2. Name: Topic
 3. Name: Topic
 4. Name: Topic
