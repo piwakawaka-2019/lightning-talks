@@ -28,7 +28,7 @@
 1. Jorge: Bootstrap
 2. Name: Topic
 3. Name: Topic
-4. Name: Topic
+4. Cerys: Yarn vs NPM
 5. Name: Topic
 6. Name: Topic
 7. Name: Topic
@@ -63,7 +63,7 @@
   * [x] Task runner - webpack
 
 * Command line tools
-  * [ ] Yarn vs NPM
+  * [x] Yarn vs NPM
   * [ ] sed, grep, ag
   * [ ] ln, ls
   * [ ] chmod, chown, chgrp
