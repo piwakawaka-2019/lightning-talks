@@ -29,7 +29,7 @@
 2. Devon: Array.from(), Array.fill()
 3. Des: Task runner - grunt 
 4. Cerys: Yarn vs NPM
-5. Name: Topic
+5. Vinnie: ES6 classes
 6. Name: Topic
 7. Name: Topic
 
