@@ -27,7 +27,7 @@
 
 1. Jorge: Bootstrap
 2. Devon: Array.from(), Array.fill()
-3. Name: Topic
+3. Des: Task runner - grunt 
 4. Cerys: Yarn vs NPM
 5. Name: Topic
 6. Name: Topic
@@ -59,7 +59,7 @@
 
 * Task runners
   * [ ] Task runner - gulp
-  * [ ] Task runner - grunt
+  * [x] Task runner - grunt
   * [x] Task runner - webpack
 
 * Command line tools
