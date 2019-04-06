@@ -14,7 +14,7 @@
 
 ### Tuesday
 
-1. Name: Topic
+1. Cliff: What are Typescript and Coffeescript?
 2. Name: Topic
 3. Name: Topic
 4. Name: Topic
@@ -65,7 +65,7 @@
 * [ ] Sending data in headers vs. params vs. body
 * [ ] What is currying? Why would we use it?
 * [ ] What is a race condition?
-* [ ] What are Typescript and Coffeescript? (Or just talk about one of them)
+* [x] What are Typescript and Coffeescript? (Or just talk about one of them)
 * [ ] What is a race condition?
 * [ ] What is a technical debt?
 * [x] What is recursion?
