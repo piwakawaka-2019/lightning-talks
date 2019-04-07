@@ -38,7 +38,7 @@
 
 1. Cliff: What is Object Oriented Programming
 2. Blaine: ES6 - fat arrow functions, function shorthands
-3. Name: Topic
+3. Luke: chmod, chown, chgrp
 4. Name: Topic
 5. Name: Topic
 6. Name: Topic
@@ -66,7 +66,7 @@
   * [x] Yarn vs NPM
   * [ ] sed, grep, ag
   * [ ] ln, ls
-  * [ ] chmod, chown, chgrp
+  * [x] chmod, chown, chgrp
   * [x] echo, cat, tail
 
 * CSS
