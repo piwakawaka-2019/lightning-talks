@@ -15,7 +15,7 @@
 ### Tuesday
 
 1. Cliff: What are Typescript and Coffeescript?
-2. Name: Topic
+2. Nathan: What is a technical debt?
 3. Jesse: What is CORS?
 4. Name: Topic
 5. Name: Topic
@@ -67,7 +67,7 @@
 * [ ] What is a race condition?
 * [x] What are Typescript and Coffeescript? (Or just talk about one of them)
 * [ ] What is a race condition?
-* [ ] What is a technical debt?
+* [x] What is a technical debt?
 * [x] What is recursion?
 
 
