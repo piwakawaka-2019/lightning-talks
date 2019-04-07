@@ -17,7 +17,7 @@
 1. Cliff: What are Typescript and Coffeescript?
 2. Nathan: What is a technical debt?
 3. Jesse: What is CORS?
-4. Name: Topic
+4. Matt: Tim Berners-Lee
 5. Name: Topic
 6. Name: Topic
 7. Name: Topic
@@ -56,7 +56,7 @@
 * [ ] Linus Torvalds
 * [ ] Limor "Ladyada" Fried
 * [ ] Grace Hopper
-* [ ] Tim Berners-Lee
+* [x] Tim Berners-Lee
 
 
 ### Technical
