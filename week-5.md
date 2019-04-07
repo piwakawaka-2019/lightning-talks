@@ -16,7 +16,7 @@
 
 1. Cliff: What are Typescript and Coffeescript?
 2. Name: Topic
-3. Name: Topic
+3. Jesse: What is CORS?
 4. Name: Topic
 5. Name: Topic
 6. Name: Topic
@@ -61,7 +61,7 @@
 
 ### Technical
 * [x] NoSQL
-* [ ] What is CORS? Why is it important to understand? What is it for?
+* [x] What is CORS? Why is it important to understand? What is it for?
 * [ ] Sending data in headers vs. params vs. body
 * [ ] What is currying? Why would we use it?
 * [ ] What is a race condition?
