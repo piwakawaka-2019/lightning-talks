@@ -19,7 +19,7 @@
 3. Nathan: Flexbox
 4. Ashleigh:  echo, cat, tail
 5. Zoe: Task runner - gulp
-6. Name: Topic
+6. Jesse: Babel & Transpiling
 7. Name: Topic
 
 
@@ -55,7 +55,7 @@
   * [x] ES6 - Array.from(), Array.fill()
   * [ ] ES6 - Default parameters, Rest + Spread
   * [ ] ES6 - Map, Set
-  * [ ] Babel & Transpiling, getting ES6 to work with browserify
+  * [x] Babel & Transpiling, getting ES6 to work with browserify
 
 * Task runners
   * [x] Task runner - gulp
