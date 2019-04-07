@@ -40,14 +40,14 @@
 2. Blaine: ES6 - fat arrow functions, function shorthands
 3. Luke: chmod, chown, chgrp
 4. Jennifer: DOM vs 'virtual dom'
-5. Name: Topic
+5. Matt: var, const, let
 6. Name: Topic
 
 
 ## Topics
 
 * ES6
-  * [ ] ES6 - var, const, let
+  * [x] ES6 - var, const, let
   * [ ] ES6 - import, export
   * [x] ES6 - fat arrow functions, function shorthands
   * [ ] ES6 - template strings
