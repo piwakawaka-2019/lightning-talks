@@ -76,7 +76,7 @@
 
 * Misc
   * [ ] Reduce (Higher Order Accumulation Function)
-  * [ ] DOM vs 'virtual dom'
+  * [x] DOM vs 'virtual dom'
   * [ ] What is Functional Programming?
   * [x] What is Object Oriented Programming?
   * [ ] Robbie: Why is he so great?
