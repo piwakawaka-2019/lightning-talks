@@ -39,7 +39,7 @@
 1. Cliff: What is Object Oriented Programming
 2. Blaine: ES6 - fat arrow functions, function shorthands
 3. Luke: chmod, chown, chgrp
-4. Name: Topic
+4. Jennifer: DOM vs 'virtual dom'
 5. Name: Topic
 6. Name: Topic
 
