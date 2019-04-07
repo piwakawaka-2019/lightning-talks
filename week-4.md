@@ -37,7 +37,7 @@
 ### Thursday
 
 1. Cliff: What is Object Oriented Programming
-2. Name: Topic
+2. Blaine: ES6 - fat arrow functions, function shorthands
 3. Name: Topic
 4. Name: Topic
 5. Name: Topic
@@ -49,7 +49,7 @@
 * ES6
   * [ ] ES6 - var, const, let
   * [ ] ES6 - import, export
-  * [ ] ES6 - fat arrow functions, function shorthands
+  * [x] ES6 - fat arrow functions, function shorthands
   * [ ] ES6 - template strings
   * [ ] ES6 - Destructuring
   * [x] ES6 - Array.from(), Array.fill()
