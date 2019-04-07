@@ -37,7 +37,7 @@
 ### Thursday
 
 1. Nanz: Recursion
-2. Name: Topic
+2. Jorge: NoSQL
 3. Name: Topic
 4. Name: Topic
 5. Name: Topic
@@ -60,7 +60,7 @@
 
 
 ### Technical
-* [ ] NoSQL
+* [x] NoSQL
 * [ ] What is CORS? Why is it important to understand? What is it for?
 * [ ] Sending data in headers vs. params vs. body
 * [ ] What is currying? Why would we use it?
