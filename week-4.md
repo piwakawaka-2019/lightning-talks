@@ -18,7 +18,7 @@
 2. Meg: CSS Grid
 3. Nathan: Flexbox
 4. Ashleigh:  echo, cat, tail
-5. Name: Topic
+5. Zoe: Task runner - gulp
 6. Name: Topic
 7. Name: Topic
 
@@ -58,7 +58,7 @@
   * [ ] Babel & Transpiling, getting ES6 to work with browserify
 
 * Task runners
-  * [ ] Task runner - gulp
+  * [x] Task runner - gulp
   * [x] Task runner - grunt
   * [x] Task runner - webpack
 
