@@ -36,7 +36,7 @@
 
 ### Thursday
 
-1. Name: Topic
+1. Cliff: What is Object Oriented Programming? 
 2. Name: Topic
 3. Name: Topic
 4. Name: Topic
