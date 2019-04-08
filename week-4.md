@@ -41,7 +41,7 @@
 3. Luke: chmod, chown, chgrp
 4. Jennifer: DOM vs 'virtual dom'
 5. Matt: var, const, let
-6. Name: Topic
+6. Sharlene: template strings
 
 
 ## Topics
@@ -50,7 +50,7 @@
   * [x] ES6 - var, const, let
   * [ ] ES6 - import, export
   * [x] ES6 - fat arrow functions, function shorthands
-  * [ ] ES6 - template strings
+  * [x] ES6 - template strings
   * [ ] ES6 - Destructuring
   * [x] ES6 - Array.from(), Array.fill()
   * [ ] ES6 - Default parameters, Rest + Spread
