@@ -25,7 +25,7 @@
 
 ### Wednesday
 
-1. Name: Topic
+1. Des: Grace Hopper
 2. Name: Topic
 3. Name: Topic
 4. Adam: Sending data in headers vs. params vs. body
@@ -55,7 +55,7 @@
 * [ ] Steve Wozniak
 * [ ] Linus Torvalds
 * [ ] Limor "Ladyada" Fried
-* [ ] Grace Hopper
+* [x] Grace Hopper
 * [x] Tim Berners-Lee
 
 
