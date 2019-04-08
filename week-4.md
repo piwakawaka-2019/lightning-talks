@@ -30,7 +30,7 @@
 3. Des: Task runner - grunt 
 4. Cerys: Yarn vs NPM
 5. Vinnie: ES6 classes
-6. Name: Topic
+6. Fudz: Robbie: Why is he so great?
 7. Name: Topic
 
 
@@ -79,4 +79,4 @@
   * [x] DOM vs 'virtual dom'
   * [ ] What is Functional Programming?
   * [x] What is Object Oriented Programming?
-  * [ ] Robbie: Why is he so great?
+  * [x] Robbie: Why is he so great?
