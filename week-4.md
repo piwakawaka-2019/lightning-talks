@@ -31,7 +31,7 @@
 4. Cerys: Yarn vs NPM
 5. Vinnie: ES6 classes
 6. Fudz: Robbie: Why is he so great?
-7. Name: Topic
+7. Adam: import, export
 
 
 ### Thursday
@@ -48,7 +48,7 @@
 
 * ES6
   * [x] ES6 - var, const, let
-  * [ ] ES6 - import, export
+  * [x] ES6 - import, export
   * [x] ES6 - fat arrow functions, function shorthands
   * [x] ES6 - template strings
   * [ ] ES6 - Destructuring
