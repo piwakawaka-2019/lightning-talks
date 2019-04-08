@@ -28,7 +28,7 @@
 1. Name: Topic
 2. Name: Topic
 3. Name: Topic
-4. Name: Topic
+4. Adam: Sending data in headers vs. params vs. body
 5. Name: Topic
 6. Name: Topic
 7. Name: Topic
@@ -62,7 +62,7 @@
 ### Technical
 * [x] NoSQL
 * [x] What is CORS? Why is it important to understand? What is it for?
-* [ ] Sending data in headers vs. params vs. body
+* [x] Sending data in headers vs. params vs. body
 * [ ] What is currying? Why would we use it?
 * [ ] What is a race condition?
 * [x] What are Typescript and Coffeescript? (Or just talk about one of them)
