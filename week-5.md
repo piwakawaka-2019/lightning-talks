@@ -27,7 +27,7 @@
 
 1. Des: Grace Hopper
 2. Name: Topic
-3. Name: Topic
+3. Zoe: Ada Lovelace
 4. Adam: Sending data in headers vs. params vs. body
 5. Name: Topic
 6. Name: Topic
@@ -48,7 +48,7 @@
 
 ### Biographical
 
-* [ ] Ada Lovelace
+* [x] Ada Lovelace
 * [ ] Roy Fielding
 * [x] Audrey Tang
 * [ ] Alan Turing
