@@ -18,7 +18,7 @@
 2. Nathan: What is a technical debt?
 3. Jesse: What is CORS?
 4. Matt: Tim Berners-Lee
-5. Name: Topic
+5. Jennifer: Audrey Tang
 6. Name: Topic
 7. Name: Topic
 
@@ -50,7 +50,7 @@
 
 * [ ] Ada Lovelace
 * [ ] Roy Fielding
-* [ ] Audrey Tang
+* [x] Audrey Tang
 * [ ] Alan Turing
 * [ ] Steve Wozniak
 * [ ] Linus Torvalds
