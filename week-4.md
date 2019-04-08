@@ -20,7 +20,7 @@
 4. Ashleigh:  echo, cat, tail
 5. Zoe: Task runner - gulp
 6. Jesse: Babel & Transpiling
-7. Name: Topic
+7. Josh: ln, ls
 
 
 ### Wednesday
@@ -65,7 +65,7 @@
 * Command line tools
   * [x] Yarn vs NPM
   * [ ] sed, grep, ag
-  * [ ] ln, ls
+  * [x] ln, ls
   * [x] chmod, chown, chgrp
   * [x] echo, cat, tail
 
