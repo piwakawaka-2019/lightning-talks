@@ -29,7 +29,7 @@
 2. Devon: Array.from(), Array.fill()
 3. Des: Task runner - grunt 
 4. Cerys: Yarn vs NPM
-5. Vinnie: ES6 classes
+5. Vinnie: Destructuring 
 6. Fudz: Robbie: Why is he so great?
 7. Adam: import, export
 
@@ -51,7 +51,7 @@
   * [x] ES6 - import, export
   * [x] ES6 - fat arrow functions, function shorthands
   * [x] ES6 - template strings
-  * [ ] ES6 - Destructuring
+  * [x] ES6 - Destructuring
   * [x] ES6 - Array.from(), Array.fill()
   * [ ] ES6 - Default parameters, Rest + Spread
   * [ ] ES6 - Map, Set
