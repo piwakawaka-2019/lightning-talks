@@ -38,7 +38,7 @@
 
 1. Nanz: Recursion
 2. Jorge: NoSQL
-3. Name: Topic
+3. Vinnie: Race condition
 4. Name: Topic
 5. Name: Topic
 6. Name: Topic
@@ -64,9 +64,8 @@
 * [x] What is CORS? Why is it important to understand? What is it for?
 * [x] Sending data in headers vs. params vs. body
 * [ ] What is currying? Why would we use it?
-* [ ] What is a race condition?
+* [x] What is a race condition?
 * [x] What are Typescript and Coffeescript? (Or just talk about one of them)
-* [ ] What is a race condition?
 * [x] What is a technical debt?
 * [x] What is recursion?
 
