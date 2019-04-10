@@ -29,7 +29,7 @@
 2. Name: Topic
 3. Zoe: Ada Lovelace
 4. Adam: Sending data in headers vs. params vs. body
-5. Name: Topic
+5. Devon: What is currying? Why would we use it?
 6. Name: Topic
 7. Name: Topic
 
@@ -63,7 +63,7 @@
 * [x] NoSQL
 * [x] What is CORS? Why is it important to understand? What is it for?
 * [x] Sending data in headers vs. params vs. body
-* [ ] What is currying? Why would we use it?
+* [x] What is currying? Why would we use it?
 * [x] What is a race condition?
 * [x] What are Typescript and Coffeescript? (Or just talk about one of them)
 * [x] What is a technical debt?
