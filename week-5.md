@@ -39,7 +39,7 @@
 1. Nanz: Recursion
 2. Jorge: NoSQL
 3. Vinnie: Race condition
-4. Name: Topic
+4. Cerys: Limor "Ladyada" Fried
 5. Name: Topic
 6. Name: Topic
 
@@ -54,7 +54,7 @@
 * [ ] Alan Turing
 * [ ] Steve Wozniak
 * [ ] Linus Torvalds
-* [ ] Limor "Ladyada" Fried
+* [x] Limor "Ladyada" Fried
 * [x] Grace Hopper
 * [x] Tim Berners-Lee
 
