@@ -26,7 +26,7 @@
 ### Wednesday
 
 1. Des: Grace Hopper
-2. Name: Topic
+2. Josh: Alan Turing
 3. Zoe: Ada Lovelace
 4. Adam: Sending data in headers vs. params vs. body
 5. Devon: What is currying? Why would we use it?
@@ -51,7 +51,7 @@
 * [x] Ada Lovelace
 * [ ] Roy Fielding
 * [x] Audrey Tang
-* [ ] Alan Turing
+* [x] Alan Turing
 * [ ] Steve Wozniak
 * [ ] Linus Torvalds
 * [x] Limor "Ladyada" Fried
