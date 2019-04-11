@@ -30,7 +30,7 @@
 3. Zoe: Ada Lovelace
 4. Adam: Sending data in headers vs. params vs. body
 5. Devon: What is currying? Why would we use it?
-6. Name: Topic
+6. Fudz: What are design patterns?
 7. Name: Topic
 
 
@@ -72,7 +72,7 @@
 
 ### Misc
 
-* [ ] What are design patterns? Why would we use them? Give some examples.
+* [x] What are design patterns? Why would we use them? Give some examples.
 * [ ] What is referential transparency? What benefits does it give us? How would we code for it?
 * [ ] What are the differences between declarative and imperative languages? Why would we use one over the other? Give some examples of each.
 * [x] What is the Turing Test? What does it mean to say that something is Turing Complete?
