@@ -20,7 +20,7 @@
 4. Matt: Tim Berners-Lee
 5. Jennifer: Audrey Tang
 6. Meg : Turing test
-7. Name: Topic
+7. Ashleigh:  What is referential transparency? What benefits does it give us? How would we code for it?
 
 
 ### Wednesday
@@ -73,6 +73,6 @@
 ### Misc
 
 * [x] What are design patterns? Why would we use them? Give some examples.
-* [ ] What is referential transparency? What benefits does it give us? How would we code for it?
+* [X] What is referential transparency? What benefits does it give us? How would we code for it?
 * [ ] What are the differences between declarative and imperative languages? Why would we use one over the other? Give some examples of each.
 * [x] What is the Turing Test? What does it mean to say that something is Turing Complete?
