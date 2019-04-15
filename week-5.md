@@ -40,8 +40,7 @@
 2. Jorge: NoSQL
 3. Vinnie: Race condition
 4. Cerys: Limor "Ladyada" Fried
-5.Sharlene: Steve Wozniak
-6. Name: Topic
+5. Sharlene: Steve Wozniak
 
 
 ## Topics
