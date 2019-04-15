@@ -48,7 +48,7 @@
 ### Biographical
 
 * [x] Ada Lovelace
-* [] Roy Fielding
+* [ ] Roy Fielding
 * [x] Audrey Tang
 * [x] Alan Turing
 * [X] Steve Wozniak
