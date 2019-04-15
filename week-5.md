@@ -40,7 +40,7 @@
 2. Jorge: NoSQL
 3. Vinnie: Race condition
 4. Cerys: Limor "Ladyada" Fried
-5. Name: Topic
+5.Sharlene: Steve Wozniak
 6. Name: Topic
 
 
@@ -52,7 +52,7 @@
 * [ ] Roy Fielding
 * [x] Audrey Tang
 * [x] Alan Turing
-* [ ] Steve Wozniak
+* [X] Steve Wozniak
 * [ ] Linus Torvalds
 * [x] Limor "Ladyada" Fried
 * [x] Grace Hopper
