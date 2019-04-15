@@ -31,7 +31,7 @@
 4. Adam: Sending data in headers vs. params vs. body
 5. Devon: What is currying? Why would we use it?
 6. Fudz: What are design patterns?
-7. Name: Topic
+7. Luke: Roy Fielding
 
 
 ### Thursday
@@ -48,7 +48,7 @@
 ### Biographical
 
 * [x] Ada Lovelace
-* [ ] Roy Fielding
+* [x] Roy Fielding
 * [x] Audrey Tang
 * [x] Alan Turing
 * [X] Steve Wozniak
