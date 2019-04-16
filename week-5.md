@@ -28,7 +28,7 @@
 1. Des: Grace Hopper
 2. Josh: Alan Turing
 3. Zoe: Ada Lovelace
-4. Adam: Sending data in headers vs. params vs. body
+4. Adam: Roy Fielding
 5. Devon: What is currying? Why would we use it?
 6. Fudz: What are design patterns?
 
@@ -47,7 +47,7 @@
 ### Biographical
 
 * [x] Ada Lovelace
-* [ ] Roy Fielding
+* [x] Roy Fielding
 * [x] Audrey Tang
 * [x] Alan Turing
 * [X] Steve Wozniak
@@ -60,7 +60,7 @@
 ### Technical
 * [x] NoSQL
 * [x] What is CORS? Why is it important to understand? What is it for?
-* [x] Sending data in headers vs. params vs. body
+* [ ] Sending data in headers vs. params vs. body
 * [x] What is currying? Why would we use it?
 * [x] What is a race condition?
 * [x] What are Typescript and Coffeescript? (Or just talk about one of them)
