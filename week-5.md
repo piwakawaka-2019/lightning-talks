@@ -31,7 +31,6 @@
 4. Adam: Sending data in headers vs. params vs. body
 5. Devon: What is currying? Why would we use it?
 6. Fudz: What are design patterns?
-7. Luke: Linus Torvalds
 
 
 ### Thursday
@@ -41,7 +40,7 @@
 3. Vinnie: Race condition
 4. Cerys: Limor "Ladyada" Fried
 5. Sharlene: Steve Wozniak
-
+6. Luke: Linus Torvalds
 
 ## Topics
 
